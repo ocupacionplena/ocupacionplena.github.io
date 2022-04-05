@@ -202,7 +202,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	position: absolute;
 	z-index: 1;
 	width: 30%;
-	background-color: var(--mc);
+	background-color: pink;
 	clip-path: polygon(100% 0, 80% 50%, 100% 100%, 0 100%, 0 0);
 	top: 0;
 	left: -30%;
@@ -284,14 +284,14 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	margin-bottom: 20px;
 }
 .deebo_fn__cv .cv__header h3 span{
-	color: var(--mc);
+	color: #de97c9;
 }
 .deebo_fn__cv .cv__header p.quote{
 	margin: 0;
     color: #aaa;
     margin-bottom: 30px;
     text-align: left;
-    border-left: 3px solid var(--mc);
+    border-left: 3px solid #de97c9;
     padding-left: 40px;
     background: #111;
     padding: 8px 20px;
@@ -305,7 +305,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	display: inline-block;
 }
 .deebo_fn__cv .cv__header p.quote a:hover{
-	color: var(--mc);
+	color: #de97c9;
 }
 .cv__header .contact_info{
 	margin: 0;
@@ -328,7 +328,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	width: 20px;
 	height: 20px;
 	display: block;
-	color: var(--mc);
+	color: #de97c9;
 	position: absolute;
 	left: 50%;
 	top: 50%;
@@ -406,7 +406,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	margin: -8px 0 0 -8px;
 }
 .deebo_fn__cv .social a:hover{
-	background-color: var(--mc);
+	background-color: #de97c9;
 }
 .deebo_fn__cv .cv__content section{
 	width: 100%;
@@ -587,7 +587,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	right: 0px;
 	left: 7px;
 	bottom: 10px;
-	background-color: var(--mc);
+	background-color: #de97c9;
 	z-index: 2;
 	border-radius: 100%;
 	color: rgba(52,82,255,0.1);
@@ -618,10 +618,10 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	height: 138%;
 	display: block;
 /*	background-color: #999;*/
-	background: var(--mc);
-	background: -moz-linear-gradient(180deg, var(--mc) 50%, rgba(211,165,131,1) 50%, rgba(211,165,131,1) 100%);
-	background: -webkit-linear-gradient(180deg, var(--mc) 50%, rgba(211,165,131,1) 50%, rgba(211,165,131,1) 100%);
-	background: linear-gradient(180deg, var(--mc) 50%, rgba(211,165,131,1) 50%, rgba(211,165,131,1) 100%);
+	background: #de97c9;
+	background: -moz-linear-gradient(180deg, #de97c9 50%, rgba(211,165,131,1) 50%, rgba(211,165,131,1) 100%);
+	background: -webkit-linear-gradient(180deg, #de97c9 50%, rgba(211,165,131,1) 50%, rgba(211,165,131,1) 100%);
+	background: linear-gradient(180deg, #de97c9 50%, rgba(211,165,131,1) 50%, rgba(211,165,131,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3452ff",endColorstr="#d3a583",GradientType=1);
 	transform: rotate(30deg);
 	z-index: 13;
@@ -679,10 +679,10 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
     animation: cs_fn_pulse 2.5s cubic-bezier(0.3,1,0.3,1) infinite;
 }
 .section_header .person_info:hover{
-	background-color: var(--mc);
+	background-color: #de97c9;
 }
 .section_header .person_info:hover:after{
-	border-color: var(--mc);
+	border-color: #de97c9;
 }
 @-webkit-keyframes cs_fn_pulse{ from{ opacity:1;  transform:scale(1,1)}
  to{ opacity:0;  transform:scale(1.8,1.8)}
@@ -737,7 +737,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	position: absolute;
 	width: 100px;
 	height: 2px;
-	background-color: var(--mc);
+	background-color: #de97c9;
 	bottom: 0;
 	left: 0;
 }
@@ -780,7 +780,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	text-decoration: none;
 }
 .fn_cs_info_items a:hover{
-	color: var(--mc);
+	color: #de97c9;
 }
 /*------------------------------------------------------------------*/
 /*	06) Boxed List
@@ -828,7 +828,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
     left: 0px;
     top: 50%;
     transform: translateY(-50%);
-    background-color: var(--mc);
+    background-color: #de97c9;
 }
 .fn_cs_boxed_list .item_top{
 	display: flex;
@@ -889,7 +889,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	top: 50%;
 	margin-top: -20px;
 	margin-right: 10px;
-	background-color: var(--mc);
+	background-color: #de97c9;
 	right: 100%;
 	border-radius: 50px;
 	color: #fff	;
@@ -994,7 +994,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
     left: 0px;
     top: 50%;
     transform: translateY(-50%);
-    background-color: var(--mc);
+    background-color: #de97c9;
     transition: all .5s ease;
 }
 .fn_cs_service_list .item_left h3{
@@ -1017,7 +1017,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 .fn_cs_service_list .item_right h3{
 	margin: 0;
 	padding: 0;
-	color: var(--mc);
+	color: #de97c9;
 	font-weight: 500;
 	font-size: 24px;
 }
@@ -1061,7 +1061,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 }
 .fn_cs_portfolio .portfolio_filter a.current,
 .fn_cs_portfolio .portfolio_filter a:hover{
-	color: var(--mc);
+	color: #de97c9;
 }
 .fn_cs_portfolio .portfolio_list{
 	width: 100%;
@@ -1253,7 +1253,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
     left: 0px;
     top: 50%;
     transform: translateY(-50%);
-    background-color: var(--mc);
+    background-color: #de97c9;
     transition: all .5s ease;
 }
 .fn_cs_testimonials .t_ava{
@@ -1294,7 +1294,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	display: block;
 }
 .fn_cs_testimonials .rating_active .fn__svg{
-	color: var(--mc);
+	color: #de97c9;
 }
 .fn_cs_testimonials .rating_regular{
 	z-index: 1;
@@ -1472,7 +1472,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
     left: 0px;
     top: 50%;
     transform: translateY(-50%);
-    background-color: var(--mc);
+    background-color: #de97c9;
     transition: all .5s ease;
 }
 .tips_content p{
@@ -1493,7 +1493,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	transition: all 0.5s ease;
 }
 .tips_content h5 a:hover{
-	color: var(--mc);
+	color: #de97c9;
 }
 .tips_content .read_more{
 	text-decoration: none;
@@ -1507,8 +1507,8 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	transition: all 0.5s ease;
 }
 .tips_content .read_more:hover{
-	border-color: var(--mc);
-	color: var(--mc);
+	border-color: #de97c9;
+	color: #de97c9;
 }
 .load_more{
 	clear: both;
@@ -1531,8 +1531,8 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	border-radius: 50px;
 }
 .load_more a:hover{
-	color: var(--mc);
-	border-color: var(--mc);
+	color: #de97c9;
+	border-color: #de97c9;
 }
 .load_more .text{
 	transition: all .3s ease, color 0s ease;
@@ -1541,7 +1541,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	opacity: 0;
 }
 .load_more .loading{
-	border-color: var(--mc);
+	border-color: #de97c9;
 }
 .load_more .loading .fn__pulse{
 	opacity: 1;
@@ -1564,7 +1564,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	width: 20px;
     height: 20px;
     border-radius: 50%;
-    background-color: var(--mc);
+    background-color: #de97c9;
 }
 .fn__pulse span:nth-child(1){
 	animation: fn__pulse .4s ease 0s infinite alternate;
@@ -1662,14 +1662,14 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 }
 .deebo_fn_modalbox.hovered .closer:after,
 .deebo_fn_modalbox .closer:hover:after{
-	border-color: var(--mc);
+	border-color: #de97c9;
 	transform: scale(1.23);
 }
 .deebo_fn_modalbox.hovered .closer span:before,
 .deebo_fn_modalbox.hovered .closer span:after,
 .deebo_fn_modalbox .closer:hover span:before,
 .deebo_fn_modalbox .closer:hover span:after{
-	background-color: var(--mc);
+	background-color: #de97c9;
 }
 .fn__hidden{
 	display: none;
@@ -1694,7 +1694,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	background: #111;
 }
 .deebo_fn_modalbox .modal_content::-webkit-scrollbar-thumb{
-	background-color: var(--mc);
+	background-color: #de97c9;
 	border-radius: 10px;
 	border: 3px solid #181715;
 }
@@ -1924,10 +1924,10 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	color: #ccc;
 }
 .fn__nav a:hover .arrow{
-	background-color: var(--mc);
+	background-color: #de97c9;
 }
 .fn__nav a:hover .arrow_wrapper:after{
-	border-color: var(--mc);
+	border-color: #de97c9;
 	transform: scale(1.23);
 }
 .fn__nav a.prev:hover .text{
@@ -2036,8 +2036,8 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	border-radius: 50px;
 }
 .section_contact .contact_form a:hover{
-	border-color: var(--mc);
-	color: var(--mc);
+	border-color: #de97c9;
+	color: #de97c9;
 }
 .section_contact .contact_form a:focus{
 	outline: 1px dashed #444;
@@ -2105,7 +2105,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	color: #000;
 }
 .light .deebo_fn__cv .social a:hover{
-	background-color: var(--mc);
+	background-color: #de97c9;
 	color: #fff;
 }
 .light .deebo_fn__cv .cv__content section{
@@ -2137,7 +2137,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	color: #333;
 }
 .light .fn_cs_info_items a:hover{
-	color: var(--mc);
+	color: #de97c9;
 }
 .light .fn_cs_progress_bar .progress_title{
 	color: #333;
@@ -2159,7 +2159,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 }
 .light .fn_cs_portfolio .portfolio_filter a.current,
 .light .fn_cs_portfolio .portfolio_filter a:hover{
-	color: var(--mc);
+	color: #de97c9;
 }
 .light .fn_cs_portfolio .mobile_title span{
 	color: #777;
@@ -2207,21 +2207,21 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	color: #333;
 }
 .light .tips_content h5 a:hover{
-	color: var(--mc);
+	color: #de97c9;
 }
 .light .tips_content .read_more{
 	background-color: transparent;
 	color: #333;
 }
 .light .tips_content .read_more:hover{
-	border-color: var(--mc);
-	color: var(--mc);
+	border-color: #de97c9;
+	color: #de97c9;
 }
 .light .load_more a{
 	color: #333;
 }
 .light .load_more a:hover{
-	color: var(--mc);
+	color: #de97c9;
 }
 .light .section_contact textarea:focus,
 .light .section_contact input:focus,
@@ -2235,8 +2235,8 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	color: #333;
 }
 .light .section_contact .contact_form a:hover{
-	color: var(--mc);
-	border-color: var(--mc);
+	color: #de97c9;
+	border-color: #de97c9;
 }
 .light .deebo_fn_modalbox{
 	background-color: rgba(255,255,255,.9);
@@ -2333,7 +2333,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 		background: #000;
 	}
 	.deebo_fn__cv::-webkit-scrollbar-thumb{
-		background-color: var(--mc);
+		background-color: #de97c9;
 		border-radius: 10px;
 	}
 	.deebo_fn__cv .cv__header{
